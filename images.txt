@@ -12,4 +12,5 @@ langgenius/dify-api:0.15.3
 ubuntu/squid:latest
 redis:6-alpine
 semitechnologies/weaviate:1.19.0
+#测试
 
